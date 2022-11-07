@@ -1,8 +1,6 @@
 /* The Odin Project 
-   
     Project: Rock Paper Scissors
-
-    Code by: Zacque Leong
+    Coded by: Zacque Leong
 */
 
 // Prompt how many rounds to play.
